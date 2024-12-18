@@ -57,7 +57,6 @@
    ["fiber/new" "coro"]
    ["file/close" "file/open"]
    ["file/open" "file/close" "with"]
-   ["file/popen" "os/spawn"]
    ["file/read" "slurp"]
    ["file/write" "spit"]
    ["filter" "keep"]
